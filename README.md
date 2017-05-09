@@ -1,3 +1,3 @@
 # quote-a-day
 First nodeJS module 1 assignment 
-https://quote-arun.herokuapp.com/
+https://module-1-quote-a-day.herokuapp.com/
